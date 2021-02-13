@@ -1,0 +1,23 @@
+Tela 1 - Login
+Validar Login e senha em tabela banco de dados. 
+Se usuário e senha conferir, gravar sessão de login e abrir tela usuarios;
+Se não conferir, voltar à mesma tela com mensagem de erro.
+
+Tala 2 - Usuarios
+Lista de usuários cadastrados no sistema. 
+Ao clicar botão excluir, deleta usuário no banco;
+Ao clicar botão editar, abrir tela Editar enviando o ID do usuário selecionado
+Ao clicar em Adicionar, abrir tela Adicionar usuario;
+
+
+Tela 3 - Adicionar usuario
+Usuario vai preencher campos.
+Se clicar em adicionar, inserir no banco de dados e voltar à tela anterior;
+Se clicar em cancelar, apenas volta para tela anterior;
+
+
+Tela 4 - Editar usuario
+Receberá o ID do usuário. 
+Buscará as informações desse usuário no banco e preencherá os campos do fomulário com essas informações
+Se clicar em salvar, alterar informações no banco e retorna à tela anterior;
+Se clicar em cancelar, apenas volta à tela anterior;
