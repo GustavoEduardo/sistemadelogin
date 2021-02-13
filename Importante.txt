@@ -1,3 +1,5 @@
+Código atual funcionando com um banco chamado loginesenha no MySql
+
 Tela 1 - Login
 Validar Login e senha em tabela banco de dados. 
 Se usuário e senha conferir, gravar sessão de login e abrir tela usuarios;
