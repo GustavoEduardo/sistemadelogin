@@ -1,4 +1,4 @@
-Gestão de usuarios e siatema de login com NodeJs.
+Gestão de usuarios e sistema de login com NodeJs.
 
 Validação de login com Express-session.
 Sistema feito com a biblioteca Express.
